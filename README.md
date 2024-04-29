@@ -5,12 +5,20 @@ This project analyzes IPL data using Apache Spark. Spark helps process big IPL d
 
 Getting Started
 Get IPL Data: Find IPL data online. Look for match results and player stats.
+
 Set Up Apache Spark: Install Spark on your computer or use a cloud service.
+
 Read Data: Use Spark to read the IPL data file.
+
 Clean Data: Remove errors or irrelevant info from the data.
+
 Explore Data: Use Spark to understand the data. Visualize trends.
+
 Analyze and Visualize: Use Spark for deep analysis. Create visualizations.
+
 Contribute: Share your findings. Consider GitHub or writing articles.
+
+
 Resources
 Apache Spark Docs
 IPL Official Website
